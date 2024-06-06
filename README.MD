@@ -107,5 +107,3 @@ To find out which Bootstrap components and snippets are used in this project, re
 ## Contribution
 Feel free to fork this project, submit issues and pull requests. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
